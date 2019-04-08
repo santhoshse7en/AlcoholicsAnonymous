@@ -16,8 +16,8 @@
 
 **The main aim of this project is to collect the information about awareness of AA in socitety and ways of AA solving the alcoholics problems.**
 
-- [x] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
+- [x] Scrape the data
+- [ ] Analyse the data
+- [ ] Publish the paper
 
 :+1: All the very best:v:
